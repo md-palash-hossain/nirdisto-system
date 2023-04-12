@@ -1,0 +1,28 @@
+# dependencies
+node_modules/
+
+# build output
+build/
+
+# environment variables
+.env
+
+# IDE/editor files
+.vscode/
+.idea/
+
+# logs
+*.log
+logs/
+
+# backup files
+*.bak
+
+# test files
+__tests__/
+*.test.js
+
+# personal files
+*.pem
+*.key
+*.crt
